@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1525930892 source:c:\users\adria\desktop\algebra arcade\main.cpp
+	"Game.h"
+
+1525974290 c:\users\adria\desktop\algebra arcade\game.h
+	"Graph2.h"
+
+1526507322 c:\users\adria\desktop\algebra arcade\graph2.h
+	<SFML/Graphics.hpp>
+	<vector>
+	<cmath>
+	"gcalc.h"
+	<cstdlib>
+	<ctime>
+
+1525965962 c:\users\adria\desktop\algebra arcade\gcalc.h
+	<string>
+	<iostream>
+	<istream>
+	<sstream>
+
