@@ -1,2 +1,2 @@
 # AlgebraArcade
-AssArcade
+Algebra Arcade Replica in C++
